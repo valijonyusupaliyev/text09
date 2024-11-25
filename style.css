@@ -1,0 +1,58 @@
+.mat{
+background-color: rgba(46, 38, 125, 0.921);
+width: 1300px;
+height: 700px;
+text-align: center;
+}
+.hol{
+
+
+
+}
+.gren{
+color: rgb(54, 159, 54);
+
+
+
+}
+.nol{
+ font-size: 20px;
+
+}
+.lon{
+font-size: 40px;
+
+}
+.kol{
+font-size: 30px;
+color: white;
+
+}
+table{
+ border-collapse: collapse ;
+margin: 0 auto;
+text-align: center;
+}
+.new{
+
+
+
+}
+.niva{
+color:white;
+
+}
+.vov{
+color: yellow;
+
+}
+.type{
+font-size: 20px;
+width: 1290px;
+
+}
+.now{
+background-color: yellow;
+font-size: 50px;
+border-radius: 30px;
+}
